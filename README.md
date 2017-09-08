@@ -1,5 +1,10 @@
 # mac-startup-list
 a list of software for u to install with brew cask
+
+home: brew /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+zsh: sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
 ```
 brew cask install mindnode-pro
 brew cask install music-manager
@@ -17,7 +22,16 @@ brew cask install go2shell
 
 # for china
 ```
+brew cask install shadowsocksx-ng
 brew cask install wechatwebdevtools
 brew cask install neteasemusic
 brew cask install youdaodict
+brew cask install sogouinput
+brew cask install wewechat  #prerequisite chrome
+```
+
+
+# for gamer
+```
+brew cask install openemu
 ```
