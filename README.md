@@ -12,6 +12,7 @@ brew cask install slack
 brew cask install skype
 brew cask install atom
 brew cask install go2shell
+brew cask install obs
 
 ```
 
@@ -28,10 +29,20 @@ brew cask install neteasemusic
 brew cask install youdaodict
 brew cask install sogouinput
 brew cask install wewechat  #prerequisite chrome
+brew cask install aliwangwang
+brew cask install thunder
+brew cask install qq
+
 ```
 
 
 # for gamer
 ```
 brew cask install openemu
+brew cask install battle-net
+brew cask install steam
+
 ```
+
+# Dev fun
+brew cask install openframeworks
