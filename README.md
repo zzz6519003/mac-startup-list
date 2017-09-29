@@ -45,4 +45,12 @@ brew cask install steam
 ```
 
 # Dev fun
+```
+brew install elixir
+brew install ghc
+brew cask install atom
 brew cask install openframeworks
+brew cask install TeXmacs
+brew cask install rstudio
+
+```
