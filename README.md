@@ -52,5 +52,7 @@ brew cask install atom
 brew cask install openframeworks
 brew cask install TeXmacs
 brew cask install rstudio
+brew cask install visual-studio
+brew cask install visual-studio-code
 
 ```
