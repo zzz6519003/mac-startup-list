@@ -44,6 +44,12 @@ brew cask install steam
 
 ```
 
+# for design
+
+```
+brew cask install blender
+```
+
 # Dev fun
 ```
 brew install elixir
